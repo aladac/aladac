@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aladac a communicative and resourceful Software Developer with significant experience
-- 👀 I’m interested in securing an interesting and challenging roles within the ranks of a solid organization
+- 👀 I’m interested in securing interesting and challenging roles within the ranks of a solid organization
 - 📫 How to reach me: 
   - [https://linked.in/in/aladac](https://www.linkedin.com/in/aladac/) 
   - from.github.with.love@saiden.pl
