@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @aladac a communicative and resourceful Software Developer with significant experience
-- 👀 I’m interested in securing interesting and challenging roles within the ranks of a solid organization
-- 📫 How to reach me: 
-  - [https://linked.in/in/aladac](https://www.linkedin.com/in/aladac/) 
-  - from.github.with.love@saiden.pl
-  - https://saiden.pl
+> "Programs must be written for people to read, and only incidentally for machines to execute."
+>
+> — Harold Abelson, *Structure and Interpretation of Computer Programs*
