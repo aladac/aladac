@@ -21,3 +21,19 @@ Developer tools and infrastructure for AI-assisted workflows. Includes [hu](http
 </p>
 
 Self-hosted PaaS for git push deploys. A lightweight platform built around [tengu](https://github.com/tengu-apps/tengu) that provisions servers, manages apps with addons, and handles TLS and routing automatically. Install the provisioning CLI via Homebrew or curl, `.deb` packages available for Linux.
+
+<p align="center">
+<a href="https://github.com/saiden-dev/homebrew-tap"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/homebrew/homebrew-original.svg" width="80" height="80"></a>
+<br>
+<a href="https://github.com/saiden-dev/homebrew-tap"><img src="https://img.shields.io/badge/homebrew--tap-d32f2f?style=for-the-badge" alt="homebrew-tap"></a>
+</p>
+
+All CLI tools are available via the [saiden-dev/tap](https://github.com/saiden-dev/homebrew-tap) Homebrew tap. One command to install any package on macOS or Linux.
+
+```bash
+brew install saiden-dev/tap/hu
+brew install saiden-dev/tap/browse
+brew install saiden-dev/tap/tengu-init
+brew install saiden-dev/tap/thumbsdown
+brew install saiden-dev/tap/icloud-status
+```
