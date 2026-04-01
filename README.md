@@ -15,7 +15,7 @@ brew install saiden-dev/tap/hu
 curl -fsSL https://raw.githubusercontent.com/saiden-dev/hu/master/install.sh | sh
 ```
 
-### <img src="https://avatars.githubusercontent.com/u/231321837?s=80&v=4" width="80" height="80" align="top"> <a href="https://github.com/tengu-apps"><img src="https://img.shields.io/badge/tengu-d32f2f?style=for-the-badge" alt="tengu"></a>
+### <img src="https://avatars.githubusercontent.com/u/231321837?s=96&v=4" width="96" height="96" align="top"> <a href="https://github.com/tengu-apps"><img src="https://img.shields.io/badge/tengu-d32f2f?style=for-the-badge" alt="tengu"></a>
 
 Self-hosted PaaS for git push deploys. A lightweight platform built around [tengu](https://github.com/tengu-apps/tengu) that provisions servers, manages apps with addons, and handles TLS and routing automatically. Install the provisioning CLI via Homebrew or curl, `.deb` packages available for Linux.
 
