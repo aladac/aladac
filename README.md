@@ -26,6 +26,8 @@ Developer tools and infrastructure for AI-assisted workflows. Includes [hu](http
 </p>
 
 Self-hosted PaaS for git push deploys. A lightweight platform built around [tengu](https://github.com/tengu-apps/tengu) that provisions servers, manages apps with addons, and handles TLS and routing automatically. Install the provisioning CLI via Homebrew or curl, `.deb` packages available for Linux.
+
+> **DISCLAIMER:** *Very, very, very* alpha, unstable SDK and API.
 </td></tr></table>
 
 <table width="100%"><tr><td>
