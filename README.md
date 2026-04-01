@@ -31,9 +31,6 @@ Self-hosted PaaS for git push deploys. A lightweight platform built around [teng
 All CLI tools are available via the [saiden-dev/tap](https://github.com/saiden-dev/homebrew-tap) Homebrew tap. One command to install any package on macOS or Linux.
 
 ```bash
-brew install saiden-dev/tap/hu
-brew install saiden-dev/tap/browse
-brew install saiden-dev/tap/tengu-init
-brew install saiden-dev/tap/thumbsdown
-brew install saiden-dev/tap/icloud-status
+brew tap saiden-dev/tap
+brew install hu browse tengu-init thumbsdown icloud-status
 ```
