@@ -25,7 +25,7 @@ Self-hosted PaaS for git push deploys. A lightweight platform built around [teng
 <p align="center">
 <a href="https://github.com/saiden-dev/homebrew-tap"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/homebrew/homebrew-original.svg" width="80" height="80"></a>
 <br>
-<a href="https://github.com/saiden-dev/homebrew-tap"><img src="https://img.shields.io/badge/homebrew--tap-d32f2f?style=for-the-badge" alt="homebrew-tap"></a>
+<a href="https://github.com/saiden-dev/homebrew-tap"><img src="https://img.shields.io/badge/homebrew--tap-FBB040?style=for-the-badge&labelColor=2b2b2b&color=2b2b2b" alt="homebrew-tap"></a>
 </p>
 
 All CLI tools are available via the [saiden-dev/tap](https://github.com/saiden-dev/homebrew-tap) Homebrew tap. One command to install any package on macOS or Linux.
