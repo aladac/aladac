@@ -8,7 +8,9 @@
 
 <table><tr><td>
 <p align="center">
-<a href="https://github.com/saiden-dev"><img src="https://avatars.githubusercontent.com/u/7307400?s=80&v=4" width="80" height="80"></a><br>
+<a href="https://github.com/saiden-dev"><img src="https://avatars.githubusercontent.com/u/7307400?s=80&v=4" width="80" height="80"></a>
+</p>
+<p align="center">
 <a href="https://github.com/saiden-dev"><img src="https://img.shields.io/badge/SAIDEN-d32f2f?style=for-the-badge" alt="SAIDEN"></a>
 </p>
 
@@ -17,7 +19,9 @@ Developer tools and infrastructure for AI-assisted workflows. Includes [hu](http
 
 <table><tr><td>
 <p align="center">
-<a href="https://github.com/tengu-apps"><img src="https://avatars.githubusercontent.com/u/231321837?s=96&v=4" width="96" height="96"></a><br>
+<a href="https://github.com/tengu-apps"><img src="https://avatars.githubusercontent.com/u/231321837?s=80&v=4" width="80" height="80"></a>
+</p>
+<p align="center">
 <a href="https://github.com/tengu-apps"><img src="https://img.shields.io/badge/tengu-d32f2f?style=for-the-badge" alt="tengu"></a>
 </p>
 
@@ -26,7 +30,9 @@ Self-hosted PaaS for git push deploys. A lightweight platform built around [teng
 
 <table><tr><td>
 <p align="center">
-<a href="https://github.com/saiden-dev/homebrew-tap"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/homebrew/homebrew-original.svg" width="80" height="80"></a><br>
+<a href="https://github.com/saiden-dev/homebrew-tap"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/homebrew/homebrew-original.svg" width="80" height="80"></a>
+</p>
+<p align="center">
 <a href="https://github.com/saiden-dev/homebrew-tap"><img src="https://img.shields.io/badge/homebrew--tap-FBB040?style=for-the-badge&labelColor=2b2b2b&color=2b2b2b" alt="homebrew-tap"></a>
 </p>
 
